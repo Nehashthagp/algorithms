@@ -19,3 +19,5 @@ def check_num():
 var=check_num()
 
 print(var)
+
+print(" This is the end of code")
